@@ -8,7 +8,7 @@ Previously, we determined that Oahu is an ideal location for our new surf and ic
 
 Here are two screenshots displaying the summary statistics for the months of June and December, respectively.
 
-<img src="" width="400" height="500"> <img src="" width="400" height="500">
+<img src="https://github.com/dharlerjr/surfs_up/blob/main/Resources/D1_June_Temps.PNG" width="400" height="500"> <img src="https://github.com/dharlerjr/surfs_up/blob/main/Resources/D2_Dec_Temps.PNG" width="400" height="500">
 
 - Despte being sixth months apart, the average temperatures for the months of June and December are only 3°F apart!
 - The maximum temperature for the month of December is 83°F. Thus, during a month which one may reasonably expect to be consistenly cold, December still holds at least a few quality-weather surf days.
