@@ -8,7 +8,7 @@ In this module, we are tasked with analyzing precipitation data in support of ou
 
 ### Purpose
 
-After analyzing one year's worth of precipitation data, we have determined that Oahu is an ideal location for our new surf and ice cream shop. However, our investor W. Avy has now asked us to further solidify our conclusion by examining temperature trends during the months of June and December from the years 2010 to 2017. 
+After analyzing one year's worth of precipitation data, we have determined that Oahu is an ideal location for our new surf and ice cream shop. However, our investor W. Avy has now asked us to solidify our conclusion by examining temperature trends during the months of June and December from the years 2010 to 2017.
 
 ## Results
 
